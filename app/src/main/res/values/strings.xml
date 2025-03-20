@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">01_20210778</string>
+    <string name="ApiKey">ttbheejae1071926001</string>
+    <string name="TMAPKey">3uIx3gBhv28PlEOVlaDU91JHMfHWis6g3rLk9dSM</string>
+    <string name="tmap_base_url">https://apis.openapi.sk.com/tmap/</string>
+    <string name="base_url">https://www.aladin.co.kr/ttb/api/</string>
+
+</resources>
